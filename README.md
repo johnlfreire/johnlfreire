@@ -1,32 +1,28 @@
-- 👋 Hi, I’m John Lenon - Olá! Meu nome é John Lenon
-- 👀 I’m interested in building a high level application, using the most modern technologies. - Estou interessado em construir aplicação de alto nivel, utilizando as tecnoligias mais modernas.
-- 🌱 I’m currently learning DOCKER, (ELK) Elastic Stack, Rabbitmq e Microservices. - Estou estudando atualmente DOCKER, (ELK) Elastic Stack, Rabbitmq e Microservices.
+# 👋 Hello, I'm John Lenon
 
+**Software Architect | Senior Full Stack Developer | Cloud & DevOps**
 
-<!---
-johnlfreire/johnlfreire is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I design, architect and build scalable applications and distributed systems — focused on performance, reliability and maintainability.
 
-## Preferred Technologies & Tools
+### 👨‍💻 What I work with
+- **Backend:** Java (Spring Boot), Python (FastAPI, Flask), PHP (Laravel), Node.js (NestJS/Express)
+- **Frontend:** Vue 3, Nuxt, React, Angular
+- **Data & Infra:** MySQL, PostgreSQL, Redis, Elasticsearch, RabbitMQ, Kafka
+- **DevOps & Cloud:** Docker, Kubernetes, AWS (EC2, S3, RDS, EKS, CloudFront), Terraform, GitHub Actions
+- **Architecture:** Microservices, DDD, Event-Driven, REST/GraphQL, Clean Architecture
 
-### Languages
-![Java](https://img.shields.io/badge/Java-informational?style=for-the-badge&logo=java&logoColor=f00080&color=222222&labelColor=222222)
-![Typescript](https://img.shields.io/badge/Typescript-informational?style=for-the-badge&logo=TypeScript&logoColor=f00080&color=222222&labelColor=222222)
-![Python](https://img.shields.io/badge/python-informational?style=for-the-badge&logo=python&logoColor=f00080&color=222222&labelColor=222222)
+### 🧱 Software Principles
+- Domain-Driven Design
+- Clean Architecture + SOLID
+- Testable & Observable Systems
+- High Availability & Multi-Tenant
+- Security, AuthN/AuthZ, RBAC, OAuth2
 
-### Frameworks
-![Spring Boot](https://img.shields.io/badge/Spring_boot-informational?style=for-the-badge&logo=spring&logoColor=f00080&color=222222&labelColor=222222)
-![Angular](https://img.shields.io/badge/Angular-informational?style=for-the-badge&logo=angular&logoColor=f00080&color=222222&labelColor=222222)
+### 🏗 Current Focus
+- High-scale distributed systems
+- Event-driven architectures
+- Observability (OpenTelemetry, Prometheus, Grafana)
+- Multi-tenant SaaS platforms
 
-### Tools
-![Docker](https://img.shields.io/badge/Docker-informational?style=for-the-badge&logo=docker&logoColor=f00080&color=222222&labelColor=222222)
-![Git](https://img.shields.io/badge/Git-informational?style=for-the-badge&logo=git&logoColor=f00080&color=222222&labelColor=222222)
-![Elastic Stack](https://img.shields.io/badge/Elastic_stack-informational?style=for-the-badge&logo=elastic-stack&logoColor=f00080&color=222222&labelColor=222222)
-![Rabbitmq](https://img.shields.io/badge/Rabbitmq-informational?style=for-the-badge&logo=rabbitmq&logoColor=f00080&color=222222&labelColor=222222)
-![Maven](https://img.shields.io/badge/Maven-informational?style=for-the-badge&logo=maven&logoColor=f00080&color=222222&labelColor=222222)
-
-
-## Find me on
-[![Linkedin](https://img.shields.io/badge/linkedin-informational?style=for-the-badge&logo=LinkedIn&logoColor=f00080&color=222222&labelColor=222222)](https://www.linkedin.com/in/john-lenon-freire-pinto-a892aa82/)
-
+### 🔗 Connect
+[LinkedIn](https://www.linkedin.com/in/john-lenon-freire-pinto-a892aa82/)
